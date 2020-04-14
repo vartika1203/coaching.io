@@ -159,9 +159,13 @@ body{
     text-decoration-color:#d2fafb; 
     text-decoration: none;
 }
+.btn-primary{
+  border-color: #000000;
+  text-decoration: none;
+  }
 #button:hover{
   background-color: #ffd868;
-  text-decoration-color:#d2fafb; 
+  color:#000000; 
 }
 @media  screen and (max-width:990px){
   .card{
